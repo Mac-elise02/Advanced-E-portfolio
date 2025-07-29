@@ -91,7 +91,7 @@ input:focus, textarea:focus {
 }
 
 .title {
-    font-size: 70px;
+    font-size: 90px;
     margin-bottom: 6px;
     text-align: left;
     line-height: 1;
@@ -483,6 +483,7 @@ nav,
     font-size: 48px;
     margin-bottom: 60px;
 }
+
 .project {
     margin-bottom: 135px;
 }
@@ -582,7 +583,7 @@ footer {
     max-width: 500px;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 28px 0;
+    margin-bottom: 40px 0;
 }
 
 .footer__social--link, 

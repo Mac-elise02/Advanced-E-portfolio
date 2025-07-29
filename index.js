@@ -37,7 +37,7 @@ function contact(event) {
       "QvPpa_xVh8gJgI4u3"
     )
     .then(() => {
-      loading.classList.remove("modal__overlay visible");
+      loading.classList.remove("modal__overlay--visible");
       success.classList += " modal__overlay--visible";
     })
     .catch(() => {
