@@ -589,6 +589,7 @@ footer {
 .footer__social--link, 
 .footer__copyright {
     color: white; 
+    padding: 8px; 
 }
 
 /* SHAPES */
